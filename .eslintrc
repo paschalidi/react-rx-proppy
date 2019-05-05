@@ -1,0 +1,6 @@
+{
+  "extends": "vivy",
+  "env": {
+    "browser": true
+  }
+}
